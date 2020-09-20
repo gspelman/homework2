@@ -17,15 +17,21 @@ h2 {
 #red {
 	background-color: #FF0000;
 	text-align: right;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
 
 #blue {
 	background-color: #0000FF;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
 
 #yellow{
 	background-color: #FFFF00;
 	text-align: right;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
 
 #yellow h2{
@@ -39,6 +45,8 @@ h2 {
 
 #green {
 	background-color: #008000;
+	padding-top: 20px;
+	padding-bottom: 50px;
 }
 
 p{
