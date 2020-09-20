@@ -1,7 +1,7 @@
 body {
 	background-color: #000000;
 	color: #FFFFFF;
-	font-family: "Lucida Grande";
+	font-family: "Lucida Grande", sans-serif;
 }
 div {
 	resize: both ;
@@ -28,15 +28,13 @@ h2 {
 
 #blue {
 	background-color: #0000FF;
-	padding-top: 20px;
-	padding-bottom: 50px;
+	
 }
 
 #yellow{
 	background-color: #FFFF00;
 	text-align: right;
-	padding-top: 20px;
-	padding-bottom: 50px;
+	
 }
 
 #yellow h2{
@@ -50,8 +48,7 @@ h2 {
 
 #green {
 	background-color: #008000;
-	padding-top: 20px;
-	padding-bottom: 50px;
+	
 }
 
 p{
