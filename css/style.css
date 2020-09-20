@@ -3,7 +3,12 @@ body {
 	color: #FFFFFF;
 	font-family: "Lucida Grande";
 }
-
+div {
+	resize: both ;
+	min-height: 150px ;
+	padding: 25px ;
+	overflow: auto ;
+}
 h1 {
 	font-size: 64px;
 	text-align: center;
